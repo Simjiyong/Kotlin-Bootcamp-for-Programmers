@@ -2,14 +2,14 @@
 
 **Google codelabs** 에서 제공하는 코틀린 Bootcamp를 보고 배운 것을 정리한 내용
 
-## Lesson 1: Get Started
+## Lesson 1 Get Started [Link](./Get_started)
 
 - Kotlin REPL(read-evaluate-print loop) 대화형 쉘을 사용하는 방법
 - Kolint 코드의 기본 구문
 
 
 
-## Lesson 2: Kotlin basics
+## Lesson 2 Kotlin basics
 
 - Kotlin 데이터 타입, 연산자, 변수를 사용하는 방법
 - boolean 과 condition 작업 방법
@@ -18,7 +18,7 @@
 
 
 
-## Lesson 3: Funtions
+## Lesson 3 Funtions
 
 - IntelliJ IDEA에서 main() 함수와 인수를 사용해 프로그램을 만드는 방법
 - default value와 compact function을 사용하는 방법
@@ -27,7 +27,7 @@
 
 
 
-## Lesson 4: Classes and objects
+## Lesson 4 Classes and objects
 
 - Kotlin에서 클래스를 만들고 속성에 액세스하는 방법
 - Kotlin에서 클래스 생성자를 만들고 사용하는 방법
@@ -38,7 +38,7 @@
 
 
 
-## Lesson 5.1: Extensions
+## Lesson 5.1 Extensions
 
 - pair와 triple로 작업하는 방법
 - Collections에 대한 추가 정보
@@ -47,13 +47,13 @@
 
 
 
-## Lesson 5.2: Generics
+## Lesson 5.2 Generics
 
 - 제네릭 클래스, 메소드 및 함수를 사용하는 방법
 
 
 
-## Lesson 6: Functional manipulation
+## Lesson 6 Functional manipulation
 
 - annotation의 기초
 - labeled break를 사용하는 방법
