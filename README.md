@@ -2,14 +2,14 @@
 
 **Google codelabs** 에서 제공하는 코틀린 Bootcamp를 보고 배운 것을 정리한 내용
 
-## Lesson 1 Get Started [Link](./Get_started)
+## Lesson 1 Get Started [:link:](./Get_started)
 
 - Kotlin REPL(read-evaluate-print loop) 대화형 쉘을 사용하는 방법
 - Kolint 코드의 기본 구문
 
 
 
-## Lesson 2 Kotlin basics
+## Lesson 2 Kotlin basics ​[:link:](./Kotlin_basics)
 
 - Kotlin 데이터 타입, 연산자, 변수를 사용하는 방법
 - boolean 과 condition 작업 방법
