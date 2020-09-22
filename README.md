@@ -18,7 +18,7 @@
 
 
 
-## Lesson 3 Funtions
+## Lesson 3 Funtions [:link:](./Functions)
 
 - IntelliJ IDEA에서 main() 함수와 인수를 사용해 프로그램을 만드는 방법
 - default value와 compact function을 사용하는 방법
